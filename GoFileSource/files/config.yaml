@@ -1,0 +1,7 @@
+name: John Doe
+age: 30
+isEmployee: true
+role: developer
+experience: 5
+isEmployee: false
+skills: [Go,C++]
